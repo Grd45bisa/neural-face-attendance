@@ -1,0 +1,10 @@
+opencv-python==4.8.1.78
+numpy
+tensorflow<2.11
+deepface
+flask==3.0.0
+flask-socketio
+simple-websocket
+pymongo==4.6.1
+python-dotenv==1.0.0
+pillow==10.1.0
